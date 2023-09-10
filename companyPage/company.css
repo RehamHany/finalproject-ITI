@@ -13,17 +13,20 @@ body {
     width: 110px;
     height: 110px;
     padding: 10px;
+
 }
 
 
 #text1 {
     font-weight: bold;
     padding-top: 20px;
+    font-family: Alnaseeb;
 }
 
 #lin {
     margin-left: 790px;
     text-align: center;
+    color: #119787;
 }
 
 .head {
@@ -42,7 +45,7 @@ body {
     color: white;
     background-color: #119787;
     border-radius: 25px;
-    padding-left: 135px;
+    padding-left: 100px;
     margin-left: 330px;
 
 }
@@ -53,11 +56,16 @@ body {
     color: white;
     background-color: #119787;
     border-radius: 10px;
+    font-size: 13pt;
+    font-weight: bold;
 }
 
 .linkH {
     color: white;
+    font-size: 13pt;
     font-weight: bold;
+    font-family: Alnaseeb;
+
 }
 
 .imgL {
@@ -80,6 +88,7 @@ body {
     text-align: center;
     margin-top: 20px;
     font-size: 20pt;
+    font-family: Alnaseeb;
 }
 
 .containC {
@@ -91,6 +100,7 @@ body {
     font-weight: bold;
     font-size: 35pt;
     color: #119787;
+    font-family: Alnaseeb;
 }
 
 .companyp {
@@ -99,6 +109,7 @@ body {
     font-size: 15pt;
     color: black;
     margin-top: 20px;
+    font-family: Alnaseeb;
 }
 
 /* form style */
@@ -126,6 +137,7 @@ body {
     font-weight: bold;
     color: black;
     margin-bottom: 30px;
+    font-family: Alnaseeb;
 }
 
 .txt {
@@ -133,6 +145,7 @@ body {
     border-radius: 15px;
     font-weight: bold;
     color: black;
+    font-family: Alnaseeb;
 }
 
 #hcom {
@@ -140,6 +153,7 @@ body {
     color: #119787;
     font-weight: bold;
     margin: 30px;
+    font-family: Alnaseeb;
 }
 
 .accept {
@@ -149,6 +163,7 @@ body {
     background-color: #119787;
     border-radius: 20px;
     font-weight: bold;
+    font-family: Alnaseeb;
     font-size: 20pt;
     margin-top: 20px;
     margin-left: 270px;
@@ -185,6 +200,7 @@ body {
     text-align: center;
     margin: 20px;
     margin-top: 0px;
+    font-family: Alnaseeb;
     /* margin-right: 100px; */
 }
 
@@ -220,16 +236,19 @@ body {
 #linehr {
     padding-top: 20px;
     font-weight: bold;
+    font-family: Alnaseeb;
 }
 
 #end {
     font-size: 15pt;
+    font-family: Alnaseeb;
 }
 
 h3 {
     padding-top: 50px;
     font-weight: bold;
     font-size: 20pt;
+    font-family: Alnaseeb;
 }
 
 #logo1 {
@@ -240,12 +259,14 @@ h3 {
 
 #text3 {
     font-weight: bold;
+    font-family: Alnaseeb;
 }
 
 .alink {
     color: white;
     font-weight: bold;
     font-size: 15pt;
+    font-family: Alnaseeb;
 }
 
 .alink:hover {
@@ -257,6 +278,7 @@ h3 {
     color: white;
     font-weight: bold;
     font-size: 15pt;
+    font-family: Alnaseeb;
 }
 
 .imgico {

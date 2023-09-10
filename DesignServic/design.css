@@ -19,11 +19,13 @@ body {
 #text1 {
     font-weight: bold;
     padding-top: 20px;
+    font-family: Alnaseeb;
 }
 
 #lin {
     margin-left: 790px;
     text-align: center;
+    color: #119787;
 }
 
 .head {
@@ -42,7 +44,7 @@ body {
     color: white;
     background-color: #119787;
     border-radius: 25px;
-    padding-left: 135px;
+    padding-left: 100px;
     margin-left: 330px;
 
 }
@@ -53,11 +55,15 @@ body {
     color: white;
     background-color: #119787;
     border-radius: 10px;
+    font-size: 13pt;
+    font-weight: bold;
 }
 
 .linkH {
     color: white;
+    font-size: 13pt;
     font-weight: bold;
+    font-family: Alnaseeb;
 }
 
 .imgL {
@@ -84,6 +90,7 @@ body {
     box-shadow: 5px 10px #888888;
     margin-left: 220px;
     border-radius: 35px;
+    font-family: Alnaseeb;
 }
 
 
@@ -95,6 +102,7 @@ body {
     margin: 20px;
     margin-top: 100px;
     margin-right: 100px;
+    font-family: Alnaseeb;
 }
 
 #imglamp {
@@ -147,6 +155,7 @@ body {
     margin: 50px;
     margin-top: 70px;
     text-align: center;
+    font-family: Alnaseeb;
 }
 
 #psocial {
@@ -155,12 +164,14 @@ body {
     font-weight: bold;
     text-align: center;
     margin-top: 50px;
+    font-family: Alnaseeb;
 }
 
 #hsocial {
     color: #119787;
     text-align: center;
     font-weight: bold;
+    font-family: Alnaseeb;
 }
 
 #inpsocial {
@@ -173,6 +184,7 @@ body {
     font-size: 13pt;
     margin-top: 50px;
     transition: transform .2s;
+    font-family: Alnaseeb;
 }
 
 #inpsocial:hover {
@@ -195,16 +207,19 @@ body {
 #linehr {
     padding-top: 20px;
     font-weight: bold;
+    font-family: Alnaseeb;
 }
 
 #end {
     font-size: 15pt;
+    font-family: Alnaseeb;
 }
 
 h3 {
     padding-top: 50px;
     font-weight: bold;
     font-size: 20pt;
+    font-family: Alnaseeb;
 }
 
 #logo1 {
@@ -215,12 +230,14 @@ h3 {
 
 #text3 {
     font-weight: bold;
+    font-family: Alnaseeb;
 }
 
 .alink {
     color: white;
     font-weight: bold;
     font-size: 15pt;
+    font-family: Alnaseeb;
 }
 
 .alink:hover {
@@ -232,6 +249,7 @@ h3 {
     color: white;
     font-weight: bold;
     font-size: 15pt;
+    font-family: Alnaseeb;
 }
 
 .imgico {

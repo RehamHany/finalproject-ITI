@@ -42,7 +42,7 @@ body {
     color: white;
     background-color: #119787;
     border-radius: 25px;
-    padding-left: 135px;
+    padding-left: 100px;
     margin-left: 330px;
 
 }
@@ -53,11 +53,14 @@ body {
     color: white;
     background-color: #119787;
     border-radius: 10px;
+    font-size: 13pt;
+    font-weight: bold;
 }
 
 .linkH {
     color: white;
     font-weight: bold;
+    font-size: 13pt;
 }
 
 .imgL {

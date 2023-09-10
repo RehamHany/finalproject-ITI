@@ -14,23 +14,28 @@ body {
     width: 110px;
     height: 110px;
     padding: 10px;
+    font-family: Alnaseeb;
 }
 
 
 #text1 {
     font-weight: bold;
     padding-top: 20px;
+    font-family: Alnaseeb;
 }
 
 #lin {
     margin-left: 790px;
     text-align: center;
+    font-family: Alnaseeb;
+    color: #119787;
 }
 
 .head {
     background-color: white;
     height: 110px;
     padding-left: 30px;
+    font-family: Alnaseeb;
 }
 
 .line {
@@ -43,8 +48,9 @@ body {
     color: white;
     background-color: #119787;
     border-radius: 25px;
-    padding-left: 135px;
+    padding-left: 100px;
     margin-left: 330px;
+    font-family: Alnaseeb;
 
 }
 
@@ -54,11 +60,16 @@ body {
     color: white;
     background-color: #119787;
     border-radius: 10px;
+    font-size: 13pt;
+    font-weight: bold;
+    font-family: Alnaseeb;
 }
 
 .linkH {
     color: white;
+    font-size: 13pt;
     font-weight: bold;
+    font-family: Alnaseeb;
 }
 
 .imgL {
@@ -71,6 +82,7 @@ body {
     background-image: url("header5.png");
     background-repeat: no-repeat;
     background-size: 100%;
+    font-family: Alnaseeb;
 }
 
 
@@ -120,21 +132,25 @@ body {
     color: white;
     height: 420px;
     text-align: center;
+    font-family: Alnaseeb;
 }
 
 #linehr {
     padding-top: 20px;
     font-weight: bold;
+    font-family: Alnaseeb;
 }
 
 #end {
     font-size: 15pt;
+    font-family: Alnaseeb;
 }
 
 h3 {
     padding-top: 50px;
     font-weight: bold;
     font-size: 20pt;
+    font-family: Alnaseeb;
 }
 
 #logo1 {
@@ -145,28 +161,33 @@ h3 {
 
 #text3 {
     font-weight: bold;
+    font-family: Alnaseeb;
 }
 
 .alink {
     color: white;
     font-weight: bold;
     font-size: 15pt;
+    font-family: Alnaseeb;
 }
 
 .alink:hover {
     color: white;
     text-decoration-line: none;
+    font-family: Alnaseeb;
 }
 
 .text {
     color: white;
     font-weight: bold;
     font-size: 15pt;
+    font-family: Alnaseeb;
 }
 
 .imgico {
     width: 50px;
     height: 50px;
     margin-top: 10px;
+    font-family: Alnaseeb;
 }
 
